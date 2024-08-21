@@ -1,0 +1,19 @@
+---
+title: "Learning Screenwriting - Use-Cases"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+# Master Screenwriting
+
+```{mermaid}
+flowchart LR
+  A[Learner] --> B(UC: Master Screenplays)
+  A[Learner] --> C(UC: Master Notes)
+  A[Learner] --> D(UC: Master Audio Video Scripts) 
+  B --> F{Abstract UC: Master Screenwriting}
+  C --> F{Abstract UC: Master Screenwriting}
+  D --> F{Abstract UC: Master Screenwriting}
+```
