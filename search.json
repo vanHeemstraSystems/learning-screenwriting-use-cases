@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "audio-video-scripts.html",
+    "href": "audio-video-scripts.html",
+    "title": "Audio Video Scripts",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
+    "section": "",
+    "text": "Table of contents\n\nLearning Screenwriting - Use Cases"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "screenplays.html",
+    "href": "screenplays.html",
+    "title": "Screenplays",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning Screenwriting - Use-Cases",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Screenwriting\n\n\n\n\n\nflowchart LR\n  A[Learner] --&gt; B(UC: Master Screenplays)\n  A[Learner] --&gt; C(UC: Master Notes)\n  A[Learner] --&gt; D(UC: Master Audio Video Scripts) \n  B --&gt; F{Abstract UC: Master Screenwriting}\n  C --&gt; F{Abstract UC: Master Screenwriting}\n  D --&gt; F{Abstract UC: Master Screenwriting}"
+  }
+]
